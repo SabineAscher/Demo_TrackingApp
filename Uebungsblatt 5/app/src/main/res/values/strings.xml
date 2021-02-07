@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Geo Tracker</string>
+
+    <string name="map">Map</string>
+    <string name="edit">Edit</string>
+
+    <string name="editActivity_title"> Edit your Track here: </string>
+    <string name="edit_title">Titel of your Track </string>
+    <string name="edit_description">Insert a description for your Track</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+</resources>
